@@ -8,5 +8,5 @@ def gen(a, b, n):
         i += 1
 
 
-for i in gen(["super", "evil"], ["Alan", "Ajinjal", "cat"],  5):
+for i in gen(["hard", "ball"], ["Alan", "Ajinjal", "cat"],  5):
     print(i)
